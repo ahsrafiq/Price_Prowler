@@ -2,6 +2,10 @@
 
 A modern, responsive web application for tracking and visualising product prices.
 
+**Purpose**: Provide users with a clear, up‑to‑date view of product price trends, enable quick comparisons across multiple items, and help them make informed purchasing decisions.
+
+**What it does**: Pulls price data from configurable sources, stores historical records, and renders interactive charts and tables. Users can filter by date, category, or price range, and receive alerts when prices drop below a set threshold.
+
 ---
 
 ## Screenshots
